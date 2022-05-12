@@ -1,9 +1,6 @@
-### Hello World, I'm Hector Bonilla 💻
+### Hello World, my name is Hector 💻
 
-<!--
-**dc5trust/dc5trust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a software Engineer with a B.S. in Computer Science from Cal State Northridge. And web development has always been an area of interest because of the potential outreach being boundless. Ultimately, my goal is to become a full stack developer and take my problem solving skills to new heights.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
