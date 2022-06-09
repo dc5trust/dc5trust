@@ -1,6 +1,6 @@
 ### Hello World, my name is Hector 💻
 
-I'm a software Engineer with a B.S. in Computer Science from Cal State Northridge. Although Computer Science is a broad field, I enjoy web development the most because of the potential outreach is boundless. Ideally, my goal is to become a full stack developer and take my problem solving skills to new heights. I also enjoy making youtube videos which are technology based. 
+I'm a software Engineer with a B.S. in Computer Science from Cal State Northridge. Although Computer Science is a broad field, I enjoy web development the most because the potential outreach is boundless. Ideally, my goal is to become a full stack developer and take my problem solving skills to new heights. I also enjoy making youtube videos which are technology based. 
 
 <ul>
   <li>📚 Currently learning NODE JS & GSAP </li>
