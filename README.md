@@ -6,6 +6,6 @@ I'm a software Engineer with a B.S. in Computer Science from Cal State Northridg
   <li>📚 Currently learning NODE JS </li>
   <li>🗂 Current Project : Portfolio Website Coming soon </li>
   <li>📍 Southern California, USA </li>
-  <li>🏃🏼‍♂️ Fun Fact: I run an average of 100+ miles a month. </li>
+  <li>🏃🏼‍♂️ Fun Fact: I run an average of 200+ miles a month. </li>
 </ul>
 
